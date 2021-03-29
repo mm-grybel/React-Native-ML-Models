@@ -57,3 +57,12 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+src/models/deeplabv3_257_mv_gpu.tflite
+src/models/deeplabv3_257_mv_gpu.txt
+src/models/mobilenet_v1_1.0_224.tflite
+src/models/mobilenet_v1_1.0_224.txt
+src/models/posenet_mv1_075_float_from_checkpoints.tflite
+src/models/ssd_mobilenet.tflite
+src/models/ssd_mobilenet.txt
+src/models/yolov2_tiny.tflite
+src/models/yolov2_tiny.txt
