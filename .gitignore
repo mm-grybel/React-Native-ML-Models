@@ -66,3 +66,12 @@ src/models/ssd_mobilenet.tflite
 src/models/ssd_mobilenet.txt
 src/models/yolov2_tiny.tflite
 src/models/yolov2_tiny.txt
+android/app/src/main/assets/models/deeplabv3_257_mv_gpu.tflite
+android/app/src/main/assets/models/deeplabv3_257_mv_gpu.txt
+android/app/src/main/assets/models/mobilenet_v1_1.0_224.tflite
+android/app/src/main/assets/models/mobilenet_v1_1.0_224.txt
+android/app/src/main/assets/models/posenet_mv1_075_float_from_checkpoints.tflite
+android/app/src/main/assets/models/ssd_mobilenet.tflite
+android/app/src/main/assets/models/ssd_mobilenet.txt
+android/app/src/main/assets/models/yolov2_tiny.tflite
+android/app/src/main/assets/models/yolov2_tiny.txt
